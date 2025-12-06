@@ -1,7 +1,6 @@
-
-Author: นายธงชัย สีสาร
-Section: 04
-I am responsible for: เขียน Quick Sort + Test
-Team: Kon baan deaw kan
+Author: นายธงชัย สีสาร <br>
+Section: 04 <br>
+I am responsible for: เขียน Quick Sort + Test <br>
+Team: Kon baan deaw kan <br>
 Semester 2/2568
 
